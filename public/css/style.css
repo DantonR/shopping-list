@@ -1,3 +1,6 @@
 h1 {
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 80px;
+    color: orange;
 }
